@@ -57,7 +57,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/brian-mwangi-a493a12a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
