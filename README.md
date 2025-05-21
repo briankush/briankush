@@ -4,34 +4,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+profile!;Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
+<!-- Optionally add a banner image below by replacing the link -->
+<!--
 <p align="center">
   <img src="https://github.com/briankush/briankush/assets/your-custom-banner.png" alt="profile banner" width="70%" />
 </p>
+-->
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: <b>Software development</b>
-- 👯 I’m looking to collaborate on projects
+- 🌱 I’m learning: <b>Software development</b>
+- 👯 I’m looking to collaborate on: <b>[Types of projects or open source initiatives]</b>
 - 💬 Ask me about: <b>Python, JavaScript, HTML, CSS, MySQL</b>
-- 📫 How to reach me: <b>briankush05@gmail.com</b>
-
+- 📫 How to reach me: <b>[Your preferred contact method: email, LinkedIn, Twitter, etc.]</b>
+- 😄 Pronouns: <b>[Your pronouns]</b>
+- ⚡ Fun fact: <b>[A fun fact about you]</b>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br>
+  <b>Python</b>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/><br>
+  <b>JavaScript</b>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/><br>
+  <b>HTML5</b>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/><br>
+  <b>CSS3</b>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/><br>
+  <b>MySQL</b>
 </p>
 
 ---
