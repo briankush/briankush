@@ -1,28 +1,49 @@
-# Hi there, I'm Brian Kuria! 👋
+<h1 align="center">Hi there, I'm Brian Kuria! 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building impactful software, contributing to open source, and continuously learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+profile!;Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/briankush/briankush/assets/your-custom-banner.png" alt="profile banner" width="70%" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m learning: **Software development**
-- 👯 I’m looking to collaborate on: **[Types of projects or open source initiatives]**
-- 💬 Ask me about: **Python, JavaScript, HTML, CSS, MySQL**
-- 📫 How to reach me: **[Your preferred contact method: email, LinkedIn, Twitter, etc.]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🌱 I’m currently learning: <b>Software development</b>
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about: <b>Python, JavaScript, HTML, CSS, MySQL</b>
+- 📫 How to reach me: <b>briankush05@gmail.com</b>
+
+
+---
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![Brian Kuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankush&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briankush&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=briankush&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankush&layout=compact&hide_border=true&theme=radical" height="160"/>
+</p>
+
+---
 
 ## 📂 Featured Projects
 
@@ -30,28 +51,25 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building impa
 - [Project 2](https://github.com/briankush/project2): _Short description of the project._
 <!-- Add more projects as needed -->
 
+---
+
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-<!-- Add additional contact/social links -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR-TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <!-- Add additional contact/social links here -->
+</p>
 
 ---
 
-_Thank you for visiting my profile!_
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-
-<!--
-**briankush/briankush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b>Thank you for visiting my profile!</b></p>
