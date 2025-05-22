@@ -1,12 +1,11 @@
-<h1 align="center">Hi there, I'm Brian Kuria! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=1F8ACB&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+there%2C+I'm+Brian+Kuria!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner)](https://git.io/typing-svg)
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=1F8ACB&center=true&vCenter=true&multiline=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" style="max-width:100%;background:white;padding:8px 0;"/>
-</p>
-
-<br/>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/briankush)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mwangi-a493a12a2/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:briankush05@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=briankush&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
@@ -17,32 +16,44 @@
 - 💬 Ask me about: <b>Python, JavaScript, HTML, CSS, MySQL</b>
 - 📫 How to reach me: <b>briankush05@gmail.com</b>
 
-
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <span><b>Python&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <span><b>JavaScript&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <span><b>HTML5&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <span><b>CSS3&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <span><b>MySQL</b></span>
+<p align="left">
+    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual-Studio-Code" width="80" height="30"/>
 </p>
+<br />
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">
+  My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
+### 📈 GitHub Activity Graph:
+[![briankush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=briankush)](https://github.com/briankush)
+
+### Github Streak
+----------------------------------------------------------------------------------------------------------------------------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=briankush&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### Github Stats
+----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=briankush&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankush&layout=compact&hide_border=true&theme=radical" height="160"/>
 </p>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
@@ -61,7 +72,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
- 
+  <a href="mailto:briankush05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <!-- Add additional contact/social links here -->
 </p>
 
