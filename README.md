@@ -60,7 +60,7 @@
 ## 📂 Featured Projects
 
 - [Project 1](https://github.com/briankush/Brian-Kuria.tech.git): _A personal portfolio website created using HTML5, CSS and Javascript._
-- [Project 2](https://github.com/briankush/project2): _Short description of the project._
+- [Project 2](https://github.com/briankush/COVID-19-Tracker.git): _COVID-19 tracker using python libraries such as pandas,matplotlib etc._
 <!-- Add more projects as needed -->
 
 ---
