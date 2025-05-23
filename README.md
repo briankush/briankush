@@ -59,7 +59,7 @@
 
 ## 📂 Featured Projects
 
-- [Project 1](https://github.com/briankush/project1): _Short description of the project._
+- [Project 1](https://github.com/briankush/Brian-Kuria.tech.git): _A personal portfolio website created using HTML5, CSS and Javascript._
 - [Project 2](https://github.com/briankush/project2): _Short description of the project._
 <!-- Add more projects as needed -->
 
