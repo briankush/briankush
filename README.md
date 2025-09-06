@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual-Studio-Code" width="80" height="30"/>
+    
 </p>
 <br />
 
